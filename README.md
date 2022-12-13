@@ -35,12 +35,12 @@
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://makarovik.w3spaces.com/github-perfil/php.png" width="50px"/>    
   </div>
-  <p align="left"> Acquiring new knowledge</p>
+  <p align="left">???</p>
 </p>
   </div>
 <br>
 <h2 align="center">【﻿Ｍｙ　Ｓｏｃｉａｌ　Ｎｅｔｗｏｒｋｓ】</h2>
- I choose not to have a Facebook, Instagram, Twitter, Linkeden, etc
+ Only Github :(
 </div>
 <br>
 <div align="center">
